@@ -2,6 +2,24 @@
   font-family: sans-serif
 }
 
-h1, div {
+h1, div, p {
   text-align: center;
+}
+
+#counter {
+  font-size: 48px;
+  margin: 20px;
+}
+
+#reset {
+  margin-top: 10px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
